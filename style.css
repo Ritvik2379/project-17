@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+#Score{
+    font-size: 18px;
+    margin-left: 10px;
+}
+#Time{
+    font-size: 18px;
+    float: right;
+    margin-right:50px ;
+}
+span{
+    color:darkorange;
+}
